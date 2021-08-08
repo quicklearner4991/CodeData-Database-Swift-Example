@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="17709" systemVersion="20G80" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="ToDoItem" representedClassName=".ToDoItem" syncable="YES" codeGenerationType="class">
+        <attribute name="isChecked" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="name" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="ToDoItem" positionX="-134.4618530273438" positionY="-19.2091064453125" width="128" height="73"/>
+    </elements>
+</model>
